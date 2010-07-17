@@ -1,3 +1,5 @@
+Liven up your terminal with a little Pony (ASCII) Power!
+
 Installation
 ------------
 
